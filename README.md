@@ -27,7 +27,7 @@ The system consists of two main components:
 
 - Python 3.13+
 - OpenAI API key
-- Notion API access (optional, for Notion sync)
+- Stripe API Key (to be provided to the MCP Server)
 
 
 ### Installation
